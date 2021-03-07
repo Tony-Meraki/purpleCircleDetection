@@ -4,6 +4,10 @@
 
 ## Install 
 
+### pip 
+
+`pip install heatmapper`
+
 ### source code
 
 ```shell
