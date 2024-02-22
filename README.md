@@ -1,4 +1,4 @@
-# BreadcrumbspurpleCircleDetection
+# purpleCircleDetection
 
 A program that tracks and analyzes purple circles on the screen. Used for eye tracking and analysis
 
